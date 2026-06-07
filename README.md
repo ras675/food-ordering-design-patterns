@@ -88,5 +88,5 @@ Receipt Generated
 https://github.com/ras675/food-ordering-design-patterns
 
 ## Author
-**Ashfak Azad Nafi** — Design Patterns Assignment, IUT
+**Rashikh Ahmad** — Design Patterns Assignment, IUT
 # food-ordering-java
